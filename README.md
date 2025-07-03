@@ -21,7 +21,7 @@
 ## Hızlı Başlangıç
 
 ```bash
-git clone https://github.com/yourname/svg-studio.git
+git clone https://github.com/sercanuslu/svg-studio.git
 cd svg-studio
 php -S localhost:8000        # veya Nginx/Apache sanal host
 ```
