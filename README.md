@@ -30,6 +30,14 @@ php -S localhost:8000        # veya Nginx/Apache sanal host
 2. Tarayıcıda `http://localhost:8000` → **user / password** ile giriş yapın.  
 3. Keyfinize bakın. 🤘
 
+### 📸 Ekran Görüntüleri
+
+![Ekran Görüntüleri](screenshots/1.png)
+![Ekran Görüntüleri](screenshots/2.png)
+![Ekran Görüntüleri](screenshots/3.png)
+![Ekran Görüntüleri](screenshots/4.png)
+![Ekran Görüntüleri](screenshots/5.png)
+
 ## Gereksinimler
 
 | Katman | Sürüm / Not |
